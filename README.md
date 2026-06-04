@@ -141,4 +141,3 @@ Both notebooks are designed for **Google Colab** and mount Google Drive for data
 - Kipf & Welling, *Variational Graph Auto-Encoders*, arXiv 2016. https://arxiv.org/abs/1611.07308
 - Wang et al., *Neural Graph Collaborative Filtering*, SIGIR 2019. https://doi.org/10.1145/3331184.3331267
 - Lundberg & Lee, *A Unified Approach to Interpreting Model Predictions (SHAP)*, NeurIPS 2017. https://arxiv.org/abs/1705.07874
-- Tintarev & Masthoff, *Explaining Recommendations: Design and Evaluation*, RecSys 2007. https://doi.org/10.1145/1297231.1297255
