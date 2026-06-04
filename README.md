@@ -3,7 +3,7 @@
 A graph-based social recommendation framework that combines **Graph Autoencoder (GAE)** denoising, **Social GCN** propagation, and **Graph Attention Networks (GAT)** to produce accurate and interpretable recommendations. Evaluated on two real-world benchmarks: **CiaoDVD** and **Epinions**.
 
 > **Paper:** Varsha Balaji, Rishita Kakarlapudi, Shanjana Pulagala, Pranathi Kamisetty, Simran Mishra —
-> *Explainable Social Recommendation through Diffusion-based Denoising*, UIC CS, 2024.
+> *Explainable Social Recommendation through Diffusion-based Denoising*, UIC CS, 2025.
 
 ---
 
